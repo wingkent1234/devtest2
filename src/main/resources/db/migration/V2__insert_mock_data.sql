@@ -1,0 +1,2 @@
+INSERT INTO `credential` (`customer_id`, `username`, `password`) VALUES ('1', 'myname', 'password');
+INSERT INTO `credential` (`customer_id`, `username`, `password`) VALUES ('2', 'myname2', 'password');
